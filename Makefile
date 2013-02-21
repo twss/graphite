@@ -5,6 +5,7 @@ generate:
 	@python helper/painter.py themes/candy.yaml
 	@python helper/painter.py themes/melon.yaml
 	@python helper/painter.py themes/mint.yaml
+	@python helper/painter.py themes/navy.yaml
 	@python helper/painter.py themes/royal.yaml
 	@python helper/painter.py themes/sand.yaml
 	@python helper/painter.py themes/slate.yaml
